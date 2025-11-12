@@ -23,3 +23,4 @@ C盘\Users(用户)\Public(公用)\Documents(公用文档)\Steam\CODEX\1551360\re
 解压723辆全车存档压缩包，然后把压缩包里的1551360文件夹放到上述路径CODEX文件夹下即可,然后去游戏文件夹下找到steam_emu.ini文件右键记事本打开把AccountId=0改成AccountId=2535442659553115（别忘删除AccountId开头的#）
 
 要是游戏存档路径不在CODEX，就打链接里面的新的学习补丁到游戏根目录下替换即可
+
